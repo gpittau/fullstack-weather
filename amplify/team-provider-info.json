@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-clima-dev-135558-authRole",
+      "UnauthRoleArn": "arn:aws:iam::388416430240:role/amplify-clima-dev-135558-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::388416430240:role/amplify-clima-dev-135558-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-clima-dev-135558-deployment",
+      "UnauthRoleName": "amplify-clima-dev-135558-unauthRole",
+      "StackName": "amplify-clima-dev-135558",
+      "StackId": "arn:aws:cloudformation:us-east-2:388416430240:stack/amplify-clima-dev-135558/ffcfe890-fa98-11ea-90b5-0679d9065fe8",
+      "AmplifyAppId": "d2fa9f1sr6c7kd"
+    }
+  }
+}
